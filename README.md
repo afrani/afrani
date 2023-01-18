@@ -12,4 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->dracula: {
+    title_color: "ff6e96",
+    icon_color: "79dafa",
+    text_color: "f8f8f2",
+    bg_color: "282a36",
