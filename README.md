@@ -24,4 +24,24 @@
 <a href="seu link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
 </p>
 
+<div>
+<a href="https://github.com/afrani/afrani">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+![Snake animation](https://github.com/afrani/afrani/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
+
+
+
+
+
+
 
