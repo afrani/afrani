@@ -65,7 +65,7 @@ e também estou estudando programação estou analista de desenvolvimento de sis
 <br /><br />
 
 ## My Badges
-[![@oussamabouchikhi's Holopin board](https://holopin.io/api/user/board?user=oussamabouchikhi)](https://www.holopin.io/@oussamabouchikhi)
+[![@oussamabouchikhi's Holopin board](https://holopin.io/api/user/board?user=oussamabouchikhi)
 
 <br /><br />
 
