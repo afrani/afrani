@@ -27,9 +27,8 @@
 <br /><br />
 
 ## About me
-I am , I graduated with a Bachelor's degree in computer science. I am a Backend developer and a Cloud enthusiast.  
-My prefered stack is Javascript and Typescript (Nodejs/Nestjs).
-I always want to learn new things.
+Olá Eu me chamo Afrânio Guerra, sou nascido de Família, humilde e cristão, atualmente moro em Manaus minha cidade natal a qual eu amo hoje sou Desenvolvedor
+e também estou estudando programação estou analista de desenvolvimento de sistema.
 
 <br /><br />
 
@@ -58,21 +57,21 @@ I always want to learn new things.
 <h2><i>Follow me:</i></h2>
 <div  align="center">
 
-  <a href="https://www.linkedin.com/in/oussama-bouchikhi-49a0b6193/" target="_blank">
+  <a href="https://www.linkedin.com/in/afranio-guerra-011b62113/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/ousstheboss/" target="_blank">
+  <a href="https://www.instagram.com/afranioguerra/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
   </a>
-  <a href="https://www.facebook.com/oussama.bouchikhi.98" target="_blank">
+  <a href="https://www.facebook.com/Desenvolvedo" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
   </a>
 
- <a href="https://twitter.com/oussth3boss/" target="_blank">
+ <a href="https://twitter.com/AfranioGuerra" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
   </a>
-   <a href="mailto:oussamabouchikhi700@gmail.com" mailto="oussamabouchikhi700@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+   <a href="afranio_guerra@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/hotmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="hotmail">
   </a>
   <a href="https://www.freelancer.com/u/oussamabouchikhi" target="_blank">
     <img src="https://img.shields.io/badge/Freelancer-%231877F2.svg?&style=flat-square&logo=freelancer&logoColor=white&color=071A2C" alt="Freelancer">
