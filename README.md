@@ -27,7 +27,7 @@
 <br /><br />
 
 ## About me
-I am Oussama Bouchikhi from Algeria, I graduated with a Bachelor's degree in computer science. I am a Backend developer and a Cloud enthusiast.  
+I am , I graduated with a Bachelor's degree in computer science. I am a Backend developer and a Cloud enthusiast.  
 My prefered stack is Javascript and Typescript (Nodejs/Nestjs).
 I always want to learn new things.
 
