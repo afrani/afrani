@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="100%" src="coloqui aqui link" alt="cover" />
+  <img width="100%" src="https://user-images.githubusercontent.com/71418895/213889192-d4ffb844-7370-4618-ba1e-5808c7fe09db.png" />
 </div>
 
 
