@@ -32,15 +32,28 @@ e também estou estudando programação estou analista de desenvolvimento de sis
 
 <br /><br />
 
+<div align="center" valign="top"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)">
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div><br>
+
+
 ## My Github stats
 
 <div align="center">
   <a href="https://github.com/afrani">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=afranio&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afranio&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
-
 <p>
   <b>For more Github info </b>
   <a href="https://gitprofilee.netlify.app/user?id=afrani/afrani">check this</a>
@@ -72,13 +85,13 @@ e também estou estudando programação estou analista de desenvolvimento de sis
    <a href="afranio_guerra@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/hotmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="hotmail">
   </a>
-  <a href="https://www.freelancer.com/u/oussamabouchikhi" target="_blank">
+  <a href="coloque link aqui" target="_blank">
     <img src="https://img.shields.io/badge/Freelancer-%231877F2.svg?&style=flat-square&logo=freelancer&logoColor=white&color=071A2C" alt="Freelancer">
   </a>
-  <a href="https://www.upwork.com/freelancers/~01f42213ee8a3771ac" target="_blank">
+  <a href="coloque link aqui" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-%231877F2.svg?&style=flat-square&logo=upwork&logoColor=white&color=071A2C" alt="Upwork">
   </a>
-<a href="https://www.fiverr.com/oussama700" target="_blank">
+<a href="coloque link aqui" target="_blank">
     <img src="https://img.shields.io/badge/Fiver-%231877F2.svg?&style=flat-square&logo=fiver&logoColor=white&color=071A2C" alt="Fiver">
   </a>
 </div>
