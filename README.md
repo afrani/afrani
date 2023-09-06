@@ -96,7 +96,7 @@ e também estou estudando programação estou analista de desenvolvimento de sis
 <a href="coloque link aqui" target="_blank">
     <img src="https://img.shields.io/badge/Fiver-%231877F2.svg?&style=flat-square&logo=fiver&logoColor=white&color=071A2C" alt="Fiver">
   </a>
-  ![snake gif](https://github.com/afrani/afrani/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
 
