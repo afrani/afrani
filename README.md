@@ -44,7 +44,7 @@ e também estou estudando programação estou analista de desenvolvimento de sis
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgrenSql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgrensql/postgrensql-original.svg">
+  <img align="center" alt="PostgrenSql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgren/postgrensql-original.svg">
 </div><br>
 
 
